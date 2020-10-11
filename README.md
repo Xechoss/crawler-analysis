@@ -3,4 +3,4 @@
 
 猫眼电影爬虫与分析
 
-基于Python matplotlib和pandas
+基于Python matplotlib和pandas的数据分析
